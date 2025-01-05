@@ -1,1 +1,3 @@
 # Calculator.py
+
+My first ever coding project was a basic calculator made with Python. It may seem simple, but it’s a huge milestone for me. Writing this project helped me understand the essentials of coding, like how to work with functions, variables, and user inputs. Each line of code was a small victory and a step forward in learning how to think logically and solve problems. While it’s just a basic tool, it represents a bigger picture of my journey into programming. This project is my first, but it’s definitely not the last—it's a reminder of how far I’ve come and how much more there is to explore.
